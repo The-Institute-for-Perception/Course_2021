@@ -1,3 +1,9 @@
+### Plot descriptive data and output to PowerPoint
+###
+### Author: Will Russ
+###
+### This script demonstrates how to plot descriptive data and then export the plots to PowerPoint
+###
 
 # load libraries
 library(tidyverse)
